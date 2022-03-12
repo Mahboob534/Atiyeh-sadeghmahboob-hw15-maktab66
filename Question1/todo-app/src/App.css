@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Cairo:wght@200&family=Markazi+Text&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+body{
+margin: 0;
+font-family: 'Amiri', serif;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +20,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background:linear-gradient(135deg, hsl(192, 100%, 67%), hsl(280, 87%, 65%));;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
